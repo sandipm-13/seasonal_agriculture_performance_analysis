@@ -14,7 +14,7 @@ This project analyzes a real-world agricultural dataset to identify seasonal pat
 🗂️ Repository Structure
 seasonal-agriculture-analysis/
 │
-├── seasonal_agriculture_analysis.ipynb          ← Main Jupyter Notebook
+├── SAPA(2).ipynb          ← Main Jupyter Notebook
 ├── seasonal_agriculture_performance_dataset.csv ← Dataset (4,000 records)
 ├── README.md                                    ← This file
 │
@@ -73,14 +73,14 @@ Upload seasonal_agriculture_performance_dataset.csv to the Colab files panel
 Click Runtime → Run all
 Option 2: Local Setup
 # Clone the repository
-git clone https://github.com/sandipm-13/seasonal_agriculture_analysis.git
+git clone https://github.com/sandipm-13/seasonal_agriculture_performance_analysis.git
 cd seasonal-agriculture-analysis
 
 # Install required libraries
 pip install pandas numpy matplotlib seaborn jupyter
 
 # Launch Jupyter Notebook
-jupyter notebook seasonal_agriculture_analysis.ipynb
+jupyter notebook SAPA(2).ipynb
 📈 Recommendations
 Promote drip irrigation in Zaid — reduces water waste and improves efficiency
 Prioritise Cotton & Chilli in Rabi — higher market prices improve profitability
